@@ -67,8 +67,6 @@ Craft and Post Privacy Rights Contract Clauses for Advanced Consent(ed) Informat
 1. considerations
   1. Consider some of the greatest privacy challenges of our time and how an international standard can be uniquely place to help address critical data gov transparency gaps we collectively face today.
 
-Resources
-1. [What is "contractual necessity" under EU data protection law ?](https://medium.com/golden-data/what-is-contractual-necessity-under-eu-data-protection-law-7aca15f20ee7)
 
 ## Git Instructions
 
@@ -82,8 +80,9 @@ Resources
 
 - Operational Notice & Consent Receipt Specification [V 1.2](https://docs.google.com/document/d/1UjwYuu_-0_JnskDA29PfzRq5XXQYVZHu7QIeEduBS6w/edit?usp=sharing
 Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsent.atlassian.net/l/c/XZBQURMn
+- 1. [What is "contractual necessity" under EU data protection law ?](https://medium.com/golden-data/what-is-contractual-necessity-under-eu-data-protection-law-7aca15f20ee7)
 
-## Background:
+## Additional Background:
 
 To address data governance challenges there has been a longitudinal effort to standardise guidelines for Transborder flows of personal data for online identification and digital identity/surveillance management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
 
